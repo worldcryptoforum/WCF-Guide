@@ -45,6 +45,6 @@ worldcryptoforum-cli masternode debug
 ```
 Also, if you want to start/stop **WCF Coin** , run one of the following commands as **root**:
 
-`start : ./worldcryptoforud`
+`start : ./worldcryptoforumd`
 
 `stop : ./worldcryptoforum-cli stop`
