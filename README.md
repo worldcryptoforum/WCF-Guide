@@ -2,11 +2,20 @@
 # WCF Coin Guide
 Shell script to install a [WCF Coin Masternode](https://www.worldcryptoforumcoin.com/) on a Linux server running Ubuntu 16.04 Use it on your own risk.
 
+
+
+***
+## v1.1 >> v2.1 Update setup guide:
+```
+wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.1/wcf-v1.1-v2.1-update.sh
+bash wcf-v1.1-v2.1-update.sh
+```
+
 ***
 ## Installation:
 ```
-wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v1.1/wcf-v1.1-vpn-setup.sh
-bash wcf-v1.1-vpn-setup.sh
+wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.1/wcf-v2.1-vpn-setup.sh
+bash wcf-v2.1-vpn-setup.sh
 ```
 ***
 ## Desktop wallet setup
