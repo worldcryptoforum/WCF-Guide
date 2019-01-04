@@ -12,7 +12,7 @@ bash wcf-v1.1-v2.1-update.sh
 ```
 
 ***
-## Installation:
+## v2.1 Installation:
 ```
 wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.1/wcf-v2.1-vpn-setup.sh
 bash wcf-v2.1-vpn-setup.sh
