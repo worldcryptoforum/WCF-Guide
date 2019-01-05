@@ -7,15 +7,21 @@ Shell script to install a [WCF Coin Masternode](https://www.worldcryptoforumcoin
 ***
 ## v1.1 >> v2.1 Update setup guide:
 ```
-wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.1/wcf-v1.1-v2.1-update-v1.sh
-bash wcf-v1.1-v2.1-update-v1.sh
+wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.2/wcf-v1.1-v2.2-update.sh
+bash wcf-v1.1-v2.2-update.sh
 ```
+
+```
+**If the update script does not work properly after the update, delete the server and install it with the v2.2 installation script.**
+**(When you delete the wallet, never delete the “wallet.dat” file. If the file is erased, Your coin may disappear.)**
+```
+
 
 ***
 ## v2.1 Installation:
 ```
-wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.1/wcf-v2.1-vpn-setup.sh
-bash wcf-v2.1-vpn-setup.sh
+wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.2/wcf-v2.2-vpn-setup.sh
+bash wcf-v2.2-vpn-setup.sh
 ```
 ***
 ## Desktop wallet setup
