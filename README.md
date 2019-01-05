@@ -7,8 +7,8 @@ Shell script to install a [WCF Coin Masternode](https://www.worldcryptoforumcoin
 ***
 ## v1.1 >> v2.1 Update setup guide:
 ```
-wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.1/wcf-v1.1-v2.1-update.sh
-bash wcf-v1.1-v2.1-update.sh
+wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.1/wcf-v1.1-v2.1-update-v1.sh
+bash wcf-v1.1-v2.1-update-v1.sh
 ```
 
 ***
