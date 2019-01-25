@@ -5,10 +5,10 @@ Shell script to install a [WCF Coin Masternode](https://www.worldcryptoforumcoin
 
 
 ***
-## v1.1 >> v2.2 Update setup guide:
+## v2.2 >> v2.3 Update setup guide:
 ```
-wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.2/wcf-v1.1-v2.2-update.sh
-bash wcf-v1.1-v2.2-update.sh
+wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.3/wcf-v2.2-v2.3-update.sh
+bash wcf-v2.2-v2.3-update.sh
 ```
 
 
@@ -18,10 +18,10 @@ bash wcf-v1.1-v2.2-update.sh
 
 
 ***
-## v2.2 Installation:
+## v2.3 Installation:
 ```
-wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.2/wcf-v2.2-vpn-setup.sh
-bash wcf-v2.2-vpn-setup.sh
+wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.3/wcf-v2.3-vpn-setup.sh
+bash wcf-v2.3-vpn-setup.sh
 ```
 ***
 ## Desktop wallet setup
@@ -30,7 +30,7 @@ After the MN is up and running, you need to configure the desktop wallet accordi
 
 1. Open the WCF Coin Coin Desktop Wallet.
 2. Go to RECEIVE and create a New Address: **MN1**
-3. Send **1000** **WCF Coin** to **MN1**.
+3. Send **5000** **WCF Coin** to **MN1**.
 4. Wait for 15 confirmations.
 5. Go to **Tools -> "Debug console - Console"**
 6. Type the following command: **masternode outputs**
