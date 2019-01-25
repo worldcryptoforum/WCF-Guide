@@ -12,7 +12,7 @@ bash wcf-v2.2-v2.3-update.sh
 ```
 
 
-**If the update script does not work properly after the update, delete the server and install it with the v2.2 installation script.**
+**If the update script does not work properly after the update, delete the server and install it with the v2.3 installation script.**
 **(When you delete the wallet, never delete the “wallet.dat” file. If the file is erased, Your coin may disappear.)**
 
 
