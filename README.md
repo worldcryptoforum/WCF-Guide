@@ -3,6 +3,13 @@
 Shell script to install a [WCF Coin Masternode](https://www.worldcryptoforumcoin.com/) on a Linux server running Ubuntu 16.04 Use it on your own risk.
 
 
+***
+## v2.3 Installation:
+```
+wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.3/wcf-v2.3-vpn-setup.sh
+bash wcf-v2.3-vpn-setup.sh
+```
+
 
 ***
 ## v2.2 >> v2.3 Update setup guide:
@@ -10,19 +17,8 @@ Shell script to install a [WCF Coin Masternode](https://www.worldcryptoforumcoin
 wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.3/wcf-v2.2-v2.3-update.sh
 bash wcf-v2.2-v2.3-update.sh
 ```
-
-
 **If the update script does not work properly after the update, delete the server and install it with the v2.3 installation script.**
 **(When you delete the wallet, never delete the “wallet.dat” file. If the file is erased, Your coin may disappear.)**
-
-
-
-***
-## v2.3 Installation:
-```
-wget https://github.com/worldcryptoforum/WCF-Guide/releases/download/v2.3/wcf-v2.3-vpn-setup.sh
-bash wcf-v2.3-vpn-setup.sh
-```
 ***
 ## Desktop wallet setup
 
